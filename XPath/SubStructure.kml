@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData>
+<Data name="CL">
+<value>CL1</value></Data>
+<Data name="CY"><value>CYRI00</value></Data>
+<Data name="SH"><value>SHRI</value></Data>
+<Data name="PCT12"><value>1026</value></Data>
+<Data name="SUB12"><value>02</value></Data>
+<Data name="COMBO"><value>1026-02</value></Data>
+<Data name="CONCAT"><value>1026-02CYRI32CL1CM1ED-00JP3102PCT-CHS12SHRI08</value></Data>
+<Data name="CITY"><value>CYRI</value></Data>
+<Data name="CD"><value>32</value></Data>
+<Data name="COMM"><value>CM1</value></Data>
+<Data name="ED"><value>ED-00</value></Data>
+<Data name="JP"><value>JP3</value></Data>
+<Data name="LD"><value>102</value></Data>
+<Data name="PCT"><value>PCT-CH</value></Data>
+<Data name="SB"><value>S12</value></Data>
+<Data name="SS"><value>08</value></Data>
+<Data name="CITY_NAME"><value>CW RICHARDSON</value></Data>
+<Data name="ISD_NAME"><value>ISD RICHARDSON</value></Data>
+<Data name="CITYNAME"><value>Richardson</value></Data>
+<Data name="BALLOT"><value>5156</value></Data>
+<Data name="PCT_BALLOT"><value>1026-5156</value></Data>
+<Data name="Shape_area"><value>1890.66484222000</value></Data>
+<Data name="Shape_len"><value>487.96193504500</value></Data>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-96.73709100027827,32.923594000221385 -96.736452,32.92523399999942 -96.73631700075747,32.92528799975343 -96.73632699951176,32.92526599991546 -96.7363920003665,32.925118999672925 -96.73656299957678,32.92471999989532 -96.7368362370819,32.92408588692801 -96.73704000023339,32.923612999900875 -96.73709100027827,32.923594000221385</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</Placemark>

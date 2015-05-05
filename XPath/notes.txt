@@ -1,0 +1,6 @@
+http://www.defiantjs.com/?utm_source=javascriptweekly&utm_medium=email
+
+https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/contains
+
+
+
